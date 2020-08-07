@@ -19,7 +19,7 @@ function OnHamburger() {
     $(".menu-dropdown").toggleClass("hide");
   });
 }
-
+//Load function
 function OnLoad() {
   OnAbout();
   OnProjects();
